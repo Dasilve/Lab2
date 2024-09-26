@@ -1,7 +1,7 @@
 package edu.ncsu.monopoly;
 //I have added a comment�
 public abstract class Card {
-
+//dbrgb
 	//hola
     public static final int TYPE_CHANCE = 1;
     public static final int TYPE_CC = 2;
